@@ -1,0 +1,12 @@
+# Blender 3.3.1 MTL File: 'enemy-plane.blend'
+# www.blender.org
+
+newmtl enemy
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/selde/OneDrive/Documentos/Mis cosas/Mis juegos y stuff/JAVASU-psx-game/assets/3d-text/wip/enemy.png
+map_d C:/Users/selde/OneDrive/Documentos/Mis cosas/Mis juegos y stuff/JAVASU-psx-game/assets/3d-text/wip/enemy.png
